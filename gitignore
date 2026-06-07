@@ -1,0 +1,8 @@
+# ⚠️ Keep these files out of GitHub — they contain secrets
+config.js
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
